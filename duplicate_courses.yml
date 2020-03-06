@@ -1,29 +1,281 @@
-mitx: 
-  - duplicate_course_ids: 
-      - MITx+6.341x_1
-      - MITx+6.341x
-      - MITx+6.341x_2
-    course_id: MITx+6.341x_2
-  - duplicate_course_ids: 
-      - MITx+14.740x
-      - MITx+14.74x
-    course_id: MITx+14.740x
-  - duplicate_course_ids: 
-      - MITx+12.340x_2
-      - MITx+12_340x
-      - MITx+12.340x
-    course_id: MITx+12.340x
-  - duplicate_course_ids: 
-      - MITx+4.605x
-      - MITx+4.605x_3
-      - MITx+4.605x_4
-    course_id: MITx+4.605x_4
-  - duplicate_course_ids: 
-      - MITx+14.73x
-      - MITx+14.73x_1
-      - MITx+14_73x
-    course_id: MITx+14.73x
-  - duplicate_course_ids: 
-      - MITx+11.405x_2
-      - MITx+11.405x
-    course_id: MITx+11.405x
+mitx:
+- course_id: MITx+14.750x
+  duplicate_course_ids:
+  - MITx+14.750x
+  - '14.75'
+  - MITx+14.75x
+  title: Political Economy and Economic Development
+- course_id: MITx+15.390.1x_SPA_1
+  duplicate_course_ids:
+  - MITx+15.390.1x_SPA_1
+  - MITx+15.390.1_SPA
+  title: "Entrepreneurship 101: \xBFQui\xE9n es tu cliente?"
+- course_id: MITx+3.054.3x_2
+  duplicate_course_ids:
+  - MITx+3.054.3x_2
+  - MITx+3.054.3x
+  title: 'Cellular Solids Part 3: Applications in Nature'
+- course_id: MITx+15.390.1x_1_TUR
+  duplicate_course_ids:
+  - MITx+15.390.1x_1_TUR
+  - MITx+15.390.1x_TUR
+  - MITx+15.390.1x_2_TUR
+  title: "Giri\u015Fimcilik 101: M\xFC\u015Fterinizi tan\u0131y\u0131n"
+- course_id: MITx+6.041x
+  duplicate_course_ids:
+  - MITx+6.041x
+  - MITx+6.041x_1
+  title: Introduction to Probability - The Science of Uncertainty
+- course_id: MITx+8.MReVx
+  duplicate_course_ids:
+  - MITx+8.MReVx
+  - MITx+8.MReV
+  title: Mechanics ReView
+- course_id: MITx+10.03x
+  duplicate_course_ids:
+  - MITx+10.03x
+  - MITx+10.03x_2
+  - MITx+10.03x_3
+  title: 'Making Biologic Medicines for Patients: The Principles of Biopharmaceutical
+    Manufacturing'
+- course_id: MITx+6.002.Bx
+  duplicate_course_ids:
+  - MITx+6.002.Bx
+  - MITx+6.002.2x
+  - MITx+6.002.2x_1
+  title: 'Circuits and Electronics 2: Amplification, Speed, and Delay'
+- course_id: MITx+2.01x_3
+  duplicate_course_ids:
+  - MITx+2.01x_3
+  - MITx+2.01x
+  title: Elements of Structures
+- course_id: '6.832'
+  duplicate_course_ids:
+  - '6.832'
+  - MITx+6.832x_2
+  - MITx+6.832x
+  title: Underactuated Robotics
+- course_id: MITx+15.662x_2
+  duplicate_course_ids:
+  - MITx+15.662x_2
+  - MITx+15.662x_3
+  title: Shaping the Future of Work
+- course_id: MITx+15.571x
+  duplicate_course_ids:
+  - MITx+15.571x
+  - MITx+17.571x
+  title: 'Democracy and Development: Perspectives from Africa'
+- course_id: '15.071'
+  duplicate_course_ids:
+  - '15.071'
+  - MITx+15.071x_2a
+  - MITx+15.071x
+  - MITx+15.071x_2
+  - MITx+15.071x
+  - MITx+15.071x_3
+  title: The Analytics Edge
+- course_id: MITx+6.00.2x_6
+  duplicate_course_ids:
+  - MITx+6.00.2x_6
+  - '6.0002'
+  - MITx+6.00.2x
+  title: Introduction to Computational Thinking and Data Science
+- course_id: MITx+12.340x
+  duplicate_course_ids:
+  - MITx+12.340x
+  - MITx+12_340x
+  - '12.340'
+  - MITx+12.340x_2
+  title: Global Warming Science
+- course_id: 3.091SC
+  duplicate_course_ids:
+  - 3.091SC
+  - MITx+3.091x
+  - '3.091'
+  - MITx+3.091x_5
+  - MITx+3.091x_2
+  - MITx+3.091x_3
+  - MITx+3.091x_4
+  title: Introduction to Solid State Chemistry
+- course_id: MITx+6.002.1x
+  duplicate_course_ids:
+  - MITx+6.002.1x
+  - MITx+6.002.Ax
+  - MITx+6.002.1x_1
+  title: 'Circuits and Electronics 1: Basic Circuit Analysis'
+- course_id: MITx+uINOV8x
+  duplicate_course_ids:
+  - MITx+uINOV8x
+  - MITx+IE.100x
+  title: "Entrepreneurship 100 \u2013 User Innovation & Entrepreneurship"
+- course_id: MITx+15.S23x
+  duplicate_course_ids:
+  - MITx+15.S23x
+  - MITx+15.671x
+  title: 'U.Lab: Transforming Business, Society, and Self'
+- course_id: MITx+21W.789x
+  duplicate_course_ids:
+  - MITx+21W.789x
+  - MITx+21W.789x_2
+  title: Building Mobile Experiences
+- course_id: MITx+3.086_2x
+  duplicate_course_ids:
+  - MITx+3.086_2x
+  - MITx+3.086-2x
+  title: Innovation and Commercialization
+- course_id: MITx+15.390.2x_TUR_1
+  duplicate_course_ids:
+  - MITx+15.390.2x_TUR_1
+  - MITx+15.390.2x_1_TUR
+  - MITx+15.390.2x_TUR
+  title: "Giri\u015Fimcilik 102: M\xFC\u015Fteriniz i\xE7in ne yapabilirsiniz?"
+- course_id: MITx+16.101x_2
+  duplicate_course_ids:
+  - MITx+16.101x_2
+  - MITx+16.101x
+  title: Introduction to Aerodynamics
+- course_id: MITx+3.054.2x
+  duplicate_course_ids:
+  - MITx+3.054.2x
+  - MITx+3.054.2x_2
+  title: 'Cellular Solids Part 2: Applications in Medicine'
+- course_id: MITx+4.605x_4
+  duplicate_course_ids:
+  - MITx+4.605x_4
+  - MITx+4.605x
+  - MITx+4.605x_3
+  title: A Global History of Architecture
+- course_id: MITx+15.390.2x_1
+  duplicate_course_ids:
+  - MITx+15.390.2x_1
+  - MITx+15.390.2x_2
+  - MITx+Bootcamp2
+  title: 'Entrepreneurship 102: What can you do for your customer?'
+- course_id: MITx+24.00x
+  duplicate_course_ids:
+  - MITx+24.00x
+  - MITx+24.00_1x
+  title: 'Introduction to Philosophy: God, Knowledge and Consciousness'
+- course_id: MITx+IE.103x
+  duplicate_course_ids:
+  - MITx+IE.103x
+  - MITx+15.390.3x
+  title: Entrepreneurship 103 - Show me the money!
+- course_id: MITx+15.390x
+  duplicate_course_ids:
+  - MITx+15.390x
+  - MITx+Bootcamp1
+  - MITx+15.390.1x_2
+  - MITx+15.390.1x_1
+  title: 'Entrepreneurship 101: Who is your customer?'
+- course_id: MITx+14.73x
+  duplicate_course_ids:
+  - MITx+14.73x
+  - MITx+14.73x_1
+  - MITx+14_73x
+  title: The Challenges of Global Poverty
+- course_id: MITx+7.00x
+  duplicate_course_ids:
+  - MITx+7.00x
+  - MITx+7.00x_3
+  - MITx+7.00x_5
+  - MITx+7.00x_4
+  - MITx+7.00x_2
+  title: Introduction to Biology - The Secret of Life
+- course_id: MITx+14.740x
+  duplicate_course_ids:
+  - MITx+14.740x
+  - '14.74'
+  - MITx+14.74x
+  title: Foundations of Development Policy
+- course_id: MITx+6.002.Cx
+  duplicate_course_ids:
+  - MITx+6.002.Cx
+  - MITx+6.002.3x
+  - MITx+6.002.3x_1
+  title: 'Circuits and Electronics 3: Applications'
+- course_id: '6.002'
+  duplicate_course_ids:
+  - '6.002'
+  - MITx+6.002x
+  - MITx+6.002_4x
+  - MITx+EECS.6.002x
+  - MITx+6.002x_6x
+  title: Circuits and Electronics
+- course_id: MITx+Launch.x_2
+  duplicate_course_ids:
+  - MITx+Launch.x_2
+  - MITx+Launch.x_3
+  title: "MIT Launch X \u2013 Becoming an Entrepreneur"
+- course_id: MITx+20.305x_2
+  duplicate_course_ids:
+  - MITx+20.305x_2
+  - MITx+20.305x
+  title: Principles of Synthetic Biology
+- course_id: '16.07'
+  duplicate_course_ids:
+  - '16.07'
+  - MITx+2.03_2x
+  - MITx+2.03x
+  - '2.032'
+  title: Dynamics
+- course_id: MITx+CTL.SC1x_1
+  duplicate_course_ids:
+  - MITx+CTL.SC1x_1
+  - MITx+CTL.SC1x_3
+  title: Supply Chain Fundamentals
+- course_id: MITx+11.405x
+  duplicate_course_ids:
+  - MITx+11.405x
+  - MITx+11.405x_2
+  title: 'Just Money: Banking as if Society Mattered'
+- course_id: MITx+8.05x_1
+  duplicate_course_ids:
+  - MITx+8.05x_1
+  - MITx+8.05x
+  title: Mastering Quantum Mechanics
+- course_id: MITx+JPAL101x_3
+  duplicate_course_ids:
+  - MITx+JPAL101x_3
+  - MITx+JPAL101x_6
+  - MITx+JPAL101_1x
+  - MITx+JPAL101x
+  - MITx+JPAL101x_4
+  - MITx+JPAL101x_5
+  title: Evaluating Social Programs
+- course_id: MITx+7.QBWx_3
+  duplicate_course_ids:
+  - MITx+7.QBWx_3
+  - MITx+7.QBW_1x
+  - MITx+7.QBWx
+  - MITx+7.QBWx_4
+  title: Quantitative Biology Workshop
+- course_id: MITx+6.341x_2
+  duplicate_course_ids:
+  - MITx+6.341x_2
+  - '6.341'
+  - MITx+6.341x
+  - MITx+6.341x_1
+  title: Discrete-Time Signal Processing
+- course_id: MITx+7.28.1x_2
+  duplicate_course_ids:
+  - MITx+7.28.1x_2
+  - MITx+7.28.1x_1
+  title: 'Molecular Biology: DNA Replication and Repair'
+- course_id: MITx+LaunchX
+  duplicate_course_ids:
+  - MITx+LaunchX
+  - MITx+Launch.x
+  title: Becoming an Entrepreneur
+- course_id: 6.00SC
+  duplicate_course_ids:
+  - 6.00SC
+  - MITx+6.00x
+  - MITx+EECS.6.00x
+  - '6.00'
+  title: Introduction to Computer Science and Programming
+- course_id: MITx+8.MechCx_2
+  duplicate_course_ids:
+  - MITx+8.MechCx_2
+  - MITx+8.MechCx
+  title: Advanced Introductory Classical Mechanics
